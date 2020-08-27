@@ -1,7 +1,7 @@
 # Trilha DevOps da 4Linux
 
 <!-- Altere a Flag abaixo com sua URL do Travis -->
-[![Build Status](https://travis-ci.org/gabyldias/simple-unittest.svg?branch=master)](https://travis-ci.org/gabyldias/simple-unittest)
+[![Build Status](https://travis-ci.com/Roberto4Linux/DevOpsLab-HelloWorld-NOVO.svg?branch=master)](https://travis-ci.com/Roberto4Linux/DevOpsLab-HelloWorld-NOVO)
 
 ## Aplicação criada para exemplificar o Ciclo de uma PipeLine DevOps
 
